@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "173987522263",
+    "firebase_url": "https://car-service-f3b5b-default-rtdb.firebaseio.com",
+    "project_id": "car-service-f3b5b",
+    "storage_bucket": "car-service-f3b5b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173987522263:android:68c5afef34ef409f07f292",
+        "android_client_info": {
+          "package_name": "com.example.car_servicing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK1ycvjMVqlkBoOCio0td0l3QGBs8j3-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
